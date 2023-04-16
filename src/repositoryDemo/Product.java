@@ -1,4 +1,4 @@
 package repositoryDemo;
 
-public class Product {
+public class Product implements IEntity {
 }
